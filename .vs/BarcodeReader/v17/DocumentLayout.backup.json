@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\views\\barcodecalling\\checkmultiple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\views\\barcodecalling\\checkmultiple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\views\\barcodecalling\\checkbarcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\views\\barcodecalling\\checkbarcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\models\\barcodemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\models\\barcodemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\models\\barcodecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\models\\barcodecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|c:\\users\\mohammed subhi\\source\\repos\\barcodereader\\barcodereader\\controllers\\barcodecalling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F970F-3CF1-40D8-B9F4-B29AD858FEED}|BarcodeReader\\BarcodeReader.csproj|solutionrelative:barcodereader\\controllers\\barcodecalling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 50,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarcodeMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Models\\BarcodeMaster.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\Models\\BarcodeMaster.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Models\\BarcodeMaster.cs",
+              "RelativeToolTip": "BarcodeReader\\Models\\BarcodeMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:31:06.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckMultiple.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\BarcodeCalling\\CheckMultiple.cshtml",
+              "RelativeDocumentMoniker": "BarcodeReader\\Views\\BarcodeCalling\\CheckMultiple.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\BarcodeCalling\\CheckMultiple.cshtml",
+              "RelativeToolTip": "BarcodeReader\\Views\\BarcodeCalling\\CheckMultiple.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:27:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckBarcode.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\BarcodeCalling\\CheckBarcode.cshtml",
+              "RelativeDocumentMoniker": "BarcodeReader\\Views\\BarcodeCalling\\CheckBarcode.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\BarcodeCalling\\CheckBarcode.cshtml",
+              "RelativeToolTip": "BarcodeReader\\Views\\BarcodeCalling\\CheckBarcode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:25:59.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarcodeCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Models\\BarcodeCheck.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\Models\\BarcodeCheck.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Models\\BarcodeCheck.cs",
+              "RelativeToolTip": "BarcodeReader\\Models\\BarcodeCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:22:53.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarcodeReader\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarcodeReader\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:44:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\AppDbContext.cs",
+              "RelativeToolTip": "BarcodeReader\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:28:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\appsettings.json",
+              "RelativeDocumentMoniker": "BarcodeReader\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\appsettings.json",
+              "RelativeToolTip": "BarcodeReader\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T18:33:25.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Program.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Program.cs",
+              "RelativeToolTip": "BarcodeReader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:32:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "BarcodeReader\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:51:37.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarcodeCalling.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Controllers\\BarcodeCalling.cs",
+              "RelativeDocumentMoniker": "BarcodeReader\\Controllers\\BarcodeCalling.cs",
+              "ToolTip": "C:\\Users\\Mohammed Subhi\\source\\repos\\BarcodeReader\\BarcodeReader\\Controllers\\BarcodeCalling.cs",
+              "RelativeToolTip": "BarcodeReader\\Controllers\\BarcodeCalling.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:24:21.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
